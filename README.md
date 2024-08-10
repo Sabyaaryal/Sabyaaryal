@@ -5,7 +5,7 @@
 
  <a href="https://twitter.com/sabyaaryal" target="blank"><img src="https://img.shields.io/twitter/follow/sabyaaryal?logo=twitter&style=for-the-badge" alt="sabyaaryal" />
 
-<img align="right" width="500" height="300" src="https://webgenext.com/wp-content/uploads/2022/07/52479-businessman-stress-at-work.gif"></img>
+<img align="right" width="500" height="300" src="https://pro2-bar-s3-cdn-cf1.myportfolio.com/97b1d4bc028e3890ce75267deb159e95/24e71a4a26b5d319d6ac79ee_rw_600.gif?h=4c5ec98e37c4fea0b6776ef182152b43"></img>
 
 
 - 🔭 I’m currently working on **Discord bots and Websites**
@@ -24,7 +24,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.leetcode.com/sabyaaryal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sabyaaryal" height="30" width="40" /></a>
-<a href="https://twitter.com/sabyaaryal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images icons/Social/twitter.svg" alt="sabyaaryal" height="30" width="40" /></a>
+<a href="https://x.com/sabyaaryal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images icons/Social/twitter.svg" alt="sabyaaryal" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/sabya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="sabya" height="30" width="40" />
 <a href="https://discord.com/users/589461743902654501" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/users/589461743902654501"height="30" width="40" /></a>
 <a href="https://instagram.com/sabyaaryal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sabyaaryal" height="30" width="40" /></a>
@@ -46,7 +46,6 @@
 
 <h4 align="left">Backend Development:</h4>
 <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a>
-<a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a>
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
 
 <h4 align="left">Mobile App Development:</h4>
