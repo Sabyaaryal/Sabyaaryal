@@ -1,102 +1,133 @@
-<h1 align="center">Hey 🚀, This is Sabya</h1>
-<h3 align="center">A passionate web developer from Nepal.</h3>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=4000&pause=1000&color=00FFAA&center=true&vCenter=true&width=600&lines=Hey+There!+I'm+Sabya;Full-Stack+Developer" alt="Typing SVG" />
+  
+  <br>
+  
+  <h3 align="center" style="line-height: 2.5;">
+  A Chief Technology Officer at Badbaa Web Agency and passionate full-stack developer crafting 
+  high-performance Applications, Discord Bots, and Automation Tools from Nepal   
+  <img src="https://drive.google.com/uc?export=view&id=1deZdcukXUzsGkFkrRr7qDRnxyJrh3zYo" 
+       width="28" height="28" alt="Custom Emoji" style="vertical-align: middle; margin-left: 4px;" />
+</h3>
+  
+  <br>
+  
+  <p>
+    <a href="https://sabyaaryal.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-sabyaaryal.com-00C853?style=for-the-badge&logo=google-chrome" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://discord.com/users/589461743902654501" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-sabya%235014-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/sabya-aryal" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Sabya%20Aryal-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://badbaa.com" target="_blank">
+    <img src="https://img.shields.io/badge/Our%20Company-Badbaa%20Web%20Agency-A37431?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:contact.sabyaaryal@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-contact@sabyaaryal.com-EA4335?style=for-the-badge&logo=gmail" />
+  </a>
+  </p>
+</div>
 
+<br>
 
+<div align="center">
+  <img src="https://drive.google.com/uc?id=1b7khaHtMUFmIvZfLOqMT1ZJagcfQkNwg" 
+       width="1000" 
+       alt="Banner" 
+       style="border-radius: 16px; box-shadow: 0 10px 30px rgba(0,255,170,0.2);" />
+</div>
 
+<br>
 
-<img align="right" width="500" height="300" src="https://pro2-bar-s3-cdn-cf1.myportfolio.com/97b1d4bc028e3890ce75267deb159e95/24e71a4a26b5d319d6ac79ee_rw_600.gif?h=4c5ec98e37c4fea0b6776ef182152b43"></img>
+## 🔥 Currently Working On & Learning
+- 🔭 Building powerful **Discord bots** & modern **full-stack websites**
+- 🌱 Deep diving into **Web Automation**, **Browser Extensions**, & **AI integrations**
+- 👯 Looking to collaborate on **Discord bots**, **web apps**, **automation scripts**
+- 🤝 Open for freelance/collaboration on **websites**, **bots**, **backend systems**
+- 💬 Ask me anything about **JavaScript**, **C++**, **Python**, **Node.js**, **React**, **Discord.js**
 
+<br>
 
-- 🔭 I’m currently working on **Discord bots and Websites**
+## 🛠️ Tech Stack – My Arsenal
 
-- 🌱 I’m currently learning **Web Automation**
-
-- 👯 I’m looking to collaborate on **Discord bots**
-
-- 🤝 I’m looking for help with **Websites and Discord bots**
-
-- 💬 Ask me about **C++, JS, c**
-
-- 📫 How to reach me **contact.sabyaaryal@gmail.com**
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://discord.com/users/589461743902654501" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/users/589461743902654501"height="30" width="40" /></a>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,mongodb,python,c,cpp,git,github,vscode,figma,postman,discordjs,aws,gcp,linux,docker" alt="Tech Stack Icons" />
 </p>
 
-## __Skills__
-<h4 align="left">Frontend Development:</h4>
-<p align="left"> 
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
+<br>
+
+<div align="center">
+  <table cellspacing="12" cellpadding="12">
+    <tr>
+      <td align="center" valign="top" width="33%">
+        <h4>🎨 Frontend & Design</h4>
+        <p><strong>React • Next.js • TypeScript • Tailwind CSS • HTML5 • CSS3 • Framer Motion • Figma • UI/UX</strong></p>
+      </td>
+      <td align="center" valign="top" width="33%">
+        <h4>🔥 Backend & APIs</h4>
+        <p><strong>Node.js • Express.js • Discord.js • REST APIs • WebSockets • Nginx</strong></p>
+      </td>
+      <td align="center" valign="top" width="33%">
+        <h4>🧠 Languages & Core</h4>
+        <p><strong>JavaScript • TypeScript • Python • C++ • C</strong></p>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" valign="top">
+        <h4>📦 Databases</h4>
+        <p><strong>MongoDB • MySQL • PostgreSQL • SQLite</strong></p>
+      </td>
+      <td align="center" valign="top">
+        <h4>🚀 DevOps & Infra</h4>
+        <p><strong>Git • GitHub • Docker • AWS • Google Cloud • Linux • VPS Hosting</strong></p>
+      </td>
+      <td align="center" valign="top">
+        <h4>🤖 Automation & AI</h4>
+        <p><strong>Web Automation • Browser Extensions • Discord/Telegram Bots • Puppeteer • AI Integrations</strong></p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br>
+
+<br>
+
+## 🌐 Connect With Me
+<p align="center">
+  <a href="https://sabyaaryal.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-sabyaaryal.com-00C853?style=for-the-badge&logo=google-chrome" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://discord.com/users/589461743902654501" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-sabya%235014-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/sabya-aryal" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Sabya%20Aryal-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://badbaa.com" target="_blank">
+    <img src="https://img.shields.io/badge/Our%20Company-Badbaa%20Web%20Agency-A37431?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:contact.sabyaaryal@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-contact@sabyaaryal.com-EA4335?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
 
 
-<h4 align="left">Programming Languages:</h4>
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sabyaaryal&style=flat-square&color=A37431&labelColor=A37431&label=Profile%20Views" />
+</p>
 
-<h4 align="left">Backend Development:</h4>
-<a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a>
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-
-<h4 align="left">Mobile App Development:</h4>
-<a href="https://ionicframework.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="40" height="40"/> </a>
-<a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a>
-
-
-<h4 align="left">AI/ML:</h4>
-<a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a>
-<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
-<a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a>
-
-<h4 align="left">Database:</h4>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-<a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a>
-<a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a>
-
-<h4 align="left">Data Visualization:</h4>
-<a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a>
-<a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a>
-
-<h4 align="left">Devops:</h4>
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
-<a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a>
-<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
-<a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
-
-
-<h4 align="left">Backend as a Service(BaaS):</h4>
-<a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
-
-
-<h4 align="left">Framework:</h4>
-<a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a>
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a>
-
-
-
-<h4 align="left">Software:</h4>
-<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
-
-
-
-<h4 align="left">Static Site Generators:</h4>
- <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a>
-
-
-<h4 align="left">Game Engines:</h4>
-<a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a>
-
-<h4 align="left">Other:</h4>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+<p align="center">
+  <strong>Let's build something awesome together!</strong> 🚀<br>
 </p>
