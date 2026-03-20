@@ -129,5 +129,5 @@
 </p>
 
 <p align="center">
-  <strong>Let's build something awesome together!</strong> 🚀<br>
+  <strong>Let's build something awesome together!</strong>🚀<br>
 </p>
