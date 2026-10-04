@@ -18,7 +18,7 @@
   </a>
   &nbsp;&nbsp;
   <a href="https://discord.com/users/589461743902654501" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-sabya%235014-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+    <img src="https://img.shields.io/badge/Discord-%40sabya-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/sabya-aryal" target="_blank">
@@ -107,7 +107,7 @@
   </a>
   &nbsp;&nbsp;
   <a href="https://discord.com/users/589461743902654501" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-sabya%235014-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+    <img src="https://img.shields.io/badge/Discord-%40sabya-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/sabya-aryal" target="_blank">
