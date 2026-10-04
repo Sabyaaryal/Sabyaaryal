@@ -123,11 +123,6 @@
   </a>
 </p>
 
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sabyaaryal&style=flat-square&color=A37431&labelColor=A37431&label=Profile%20Views" />
-</p>
-
 <p align="center">
   <strong>Let's build something awesome together!</strong>🚀<br>
 </p>
